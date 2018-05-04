@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git sets up necessary stuff to track files, otherwise it have data it needs
