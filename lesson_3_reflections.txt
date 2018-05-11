@@ -1,3 +1,8 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 DLP, as well as syncing work between geographcially separated teams.
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+If someone else updates master while you are working on a feature it might bork you.
