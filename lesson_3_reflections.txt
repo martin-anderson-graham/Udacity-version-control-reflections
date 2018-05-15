@@ -6,3 +6,8 @@ DLP, as well as syncing work between geographcially separated teams.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 If someone else updates master while you are working on a feature it might bork you.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are clones on github that separate your project from the original.  You can copy someone's work without messing up the original project.
