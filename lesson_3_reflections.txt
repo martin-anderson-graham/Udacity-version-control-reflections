@@ -11,3 +11,8 @@ If someone else updates master while you are working on a feature it might bork 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks are clones on github that separate your project from the original.  You can copy someone's work without messing up the original project.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can work on merging commits to the local branch to keep things simple.
