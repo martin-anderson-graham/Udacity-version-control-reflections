@@ -16,3 +16,8 @@ Forks are clones on github that separate your project from the original.  You ca
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can work on merging commits to the local branch to keep things simple.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You would have to manually compare files, and probably work on everything as a team and plan changes together.
